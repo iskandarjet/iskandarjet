@@ -3,7 +3,7 @@
     "name": "ISJET @iskandarjet",
     "currentPage": "index.html",
     "versionFirst": "4.0.14",
-    "uniqCompNum": 100,
+    "uniqCompNum": 101,
     "versionPublish": "4.3.2",
     "theme": {
       "name": "mobirise4",
@@ -40,7 +40,8 @@
     },
     "favicon": "",
     "noImageResize": "",
-    "google-analytics": ""
+    "google-analytics": "",
+    "cookiesAlert": "We use cookies to give you the best experience. Read our <a href='privacy.html'>cookie policy</a>."
   },
   "pages": {
     "index.html": {
