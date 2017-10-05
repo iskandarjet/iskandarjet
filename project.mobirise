@@ -701,7 +701,7 @@
               {
                 "image": "@PROJECT_PATH@/assets/images/20161019-140640-2000x1125.jpg",
                 "active": false,
-                "showButtons": false,
+                "showButtons": true,
                 "showText": false,
                 "showTitle": true,
                 "playVideo": false,
@@ -720,7 +720,7 @@
               {
                 "image": "@PROJECT_PATH@/assets/images/20151228-171813-2000x1125.jpg",
                 "active": false,
-                "showButtons": false,
+                "showButtons": true,
                 "showText": false,
                 "showTitle": true,
                 "playVideo": false,
@@ -737,8 +737,8 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/tsl-environment-21-2000x1333.jpg",
-                "active": false,
-                "showButtons": false,
+                "active": true,
+                "showButtons": true,
                 "showText": false,
                 "showTitle": true,
                 "playVideo": false,
@@ -755,7 +755,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/mbr-1620x1080.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": true,
                 "showText": false,
                 "showTitle": true,
